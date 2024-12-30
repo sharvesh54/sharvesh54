@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sharvesh!
 #### I am a software developer @ RSA Security.
-![I am a software developer at RSA Security](https://media.licdn.com/dms/image/D5616AQGgHsA34y74QA/profile-displaybackgroundimage-shrink_350_1400/0/1721033759636?e=1727308800&v=beta&t=NYnQrQrDeV2wsFD4Viw5YzMHygsLdwbbzv8xP45ZjXM)
+
 
 my role as a software developer intersects with cybersecurity, where I enhance SIEM products and drive innovation. Creating an efficient data handling project using GCP highlights my commitment to cost-effective solutions. Mastering C++ and Linux, I've tackled critical environment monitoring and storage tasks, contributing significantly to our team's success.
 
